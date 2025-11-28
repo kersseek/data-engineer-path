@@ -8,7 +8,7 @@ Este directorio está dedicado a diversos proyectos, ejercicios y análisis cent
 
 Esta sección contiene un script que extrae y transforma un archivo CSV con información de vehículos eléctricos, manejando valores faltantes y preparando los datos para su análisis. Posteriormente, se generan visualizaciones que muestran la distribución de vehículos por estado y año modelo, así como la relación entre el año del vehículo y su precio base.
 
-Este código está documentado con los estándares de NumPy.
+Este script está documentado con los estándares de NumPy.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-4CAF50?style=flat&logo=files&logoColor=white)
