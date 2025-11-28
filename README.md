@@ -15,3 +15,7 @@ Directorio dedicado a contenido del curso en Coursera: **[IBM Data Engineering P
 ### [Proyectos](projects/README.md)
 
 Directorio con proyectos orientados al mundo real.
+
+### [Python](python/README.md)
+
+Directorio dedicado a la práctica y aprendizaje del lenguaje de programación Python. Incluye ejercicios de aprendizaje.
