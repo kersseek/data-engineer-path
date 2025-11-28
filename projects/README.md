@@ -4,7 +4,7 @@ Este directorio está dedicado a proyectos enfocados a problemas reales.
 
 ## Secciones
 
-### [ETL SAT - Creatio](etl_sat_creatio.py)
+### [ETL SAT - Creatio](etl_sat_creatio)
 
 Esta sección contiene un fragmento de script que implementa un proceso ETL. El código extrae archivos CFDI (Recibidos o Emitidos) del sistema SAT a través de una API, transforma y mapea los datos relevantes para posteriormente cargarlos a una instancia de Creatio (CRM) registrando cada operación en logs para seguimiento y auditoría.
 
