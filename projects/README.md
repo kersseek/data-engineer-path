@@ -1,6 +1,6 @@
 # Proyectos
 
-Este directorio está dedicado a proyectos enfocados en la aplicación de problemas reales.
+Este directorio está dedicado a proyectos enfocados a problemas reales.
 
 ## Secciones
 
