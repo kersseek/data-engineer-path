@@ -22,4 +22,4 @@ Directorio dedicado a la práctica y aprendizaje del lenguaje de programación P
 
 ### [Power BI](powerbi/README.md)
 
-Directorio dedicado al desarrollo de dashboards y métricas en Power BI..
+Directorio dedicado al desarrollo de dashboards y métricas en Power BI.
