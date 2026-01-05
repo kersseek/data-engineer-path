@@ -19,3 +19,7 @@ Directorio con proyectos orientados al mundo real.
 ### [Python](python/README.md)
 
 Directorio dedicado a la práctica y aprendizaje del lenguaje de programación Python. Incluye ejercicios de aprendizaje.
+
+### [Power BI](powerbi/README.md)
+
+Directorio dedicado al desarrollo de dashboards y métricas en Power BI..
