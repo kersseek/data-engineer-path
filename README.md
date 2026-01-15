@@ -2,6 +2,8 @@
 
 Este repositorio reúne diferentes secciones con prácticas, proyectos y ejercicios orientados al campo de la Ingeniería de Datos incluyendo visualización, proyectos aplicados y contenido derivado del programa de IBM.
 
+#### Otros portafolios: [Desarrollo web full-stack](https://github.com/kersseek/web-development-path)
+
 ## Estructura del repositorio
 
 ### [Visualización de datos](data_visualization/README.md)
